@@ -1,21 +1,21 @@
-https://wear-trbl.snpdev.ru/assets/favicons/apple-touch-icon.png
-https://wear-trbl.snpdev.ru/assets/favicons/mstile-150x150.png
-https://wear-trbl.snpdev.ru/assets/favicons/safari-pinned-tab.svg
-https://wear-trbl.snpdev.ru/assets/iki_mns-cart-desktop.905a8bc9.jpg
-https://wear-trbl.snpdev.ru/assets/iki_mns-main-desktop.905a8bc9.jpg
-https://wear-trbl.snpdev.ru/assets/iki_mns-preview-desktop.905a8bc9.jpg
-https://wear-trbl.snpdev.ru/assets/iki_wmns-cart-desktop.905a8bc9.jpg
-https://wear-trbl.snpdev.ru/assets/iki_wmns-main-desktop.905a8bc9.jpg
-https://wear-trbl.snpdev.ru/assets/iki_wmns-preview-desktop.905a8bc9.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-1_mns-main-desktop.09c39f78.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-2_mns-main-desktop.6a87ec7c.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-3_mns-main-desktop.b98910fd.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-4_mns-main-desktop.ba9ced01.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-1_wmns-main-desktop.44c78255.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-2_wmns-main-desktop.75f1450d.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-3_wmns-main-desktop.f9baca1c.jpg
-https://wear-trbl.snpdev.ru/assets/iki-tee-4_wmns-main-desktop.bc8f7b9d.jpg
-https://wear-trbl.snpdev.ru/assets/tee-alone-1_mns-cart-desktop.58085263.jpg
-https://wear-trbl.snpdev.ru/assets/tee-alone-1_mns-cart-desktop.5e267408.jpg
-https://wear-trbl.snpdev.ru/assets/tee-alone-1_wmns-cart-desktop.85425812.jpg
-https://wear-trbl.snpdev.ru/assets/tee-alone-1_wmns-cart-desktop.c3d5c73e.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/favicons/apple-touch-icon.png
+wget -x -nH https://wear-trbl.snpdev.ru/assets/favicons/mstile-150x150.png
+wget -x -nH https://wear-trbl.snpdev.ru/assets/favicons/safari-pinned-tab.svg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki_mns-cart-desktop.905a8bc9.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki_mns-main-desktop.905a8bc9.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki_mns-preview-desktop.905a8bc9.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki_wmns-cart-desktop.905a8bc9.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki_wmns-main-desktop.905a8bc9.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki_wmns-preview-desktop.905a8bc9.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-1_mns-main-desktop.09c39f78.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-2_mns-main-desktop.6a87ec7c.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-3_mns-main-desktop.b98910fd.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-4_mns-main-desktop.ba9ced01.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-1_wmns-main-desktop.44c78255.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-2_wmns-main-desktop.75f1450d.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-3_wmns-main-desktop.f9baca1c.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/iki-tee-4_wmns-main-desktop.bc8f7b9d.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/tee-alone-1_mns-cart-desktop.58085263.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/tee-alone-1_mns-cart-desktop.5e267408.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/tee-alone-1_wmns-cart-desktop.85425812.jpg
+wget -x -nH https://wear-trbl.snpdev.ru/assets/tee-alone-1_wmns-cart-desktop.c3d5c73e.jpg
