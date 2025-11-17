@@ -180,11 +180,11 @@ Line 193:  (in preloader)
 
 #### Main Slogan
 ```
-Line 221:  "We'll blow "
-Line 222:  "your mind "
-Line 223:  "And more. "
+Line 221:  "I am "
+Line 222:  "what "
+Line 223:  "i wear"
 Line 224:  "I am what"  (mobile)
-Line 225:  "And more. "     (mobile)
+Line 225:  "i wear"     (mobile)
 Line 234:  "i am what i wear"
 ```
 
@@ -487,7 +487,7 @@ Line 274:  "nav.about": "Who we+ar"    → Update to your brand
 Line 275:  "nav.faq": "Faq"            → Keep
 Line 276:  "nav.lookbook": "Lookbook"  → Keep or rename
 Line 277:  "nav.contacts": "Contacts"  → Keep
-Line 278:  "nav.collection": "Masseuse " → Keep (note: Cyrillic 'с')
+Line 278:  "nav.collection": "Produсts" → Keep (note: Cyrillic 'с')
 Line 280:  "nav.trblmkrs": "Trbl mkrs" → Update or remove
 Line 283:  "nav.trblApp": "Trbl app"   → Update to your app name
 ```
@@ -677,7 +677,7 @@ description: "<ul>\n  <li>FEATURE</li>\n</ul>\n<p>Description here.</p>"
 
 ### 3. Special Characters
 - Em dash: `—` (not `--`)
-- Cyrillic 'с' in "Masseuse " (Line 278) - may want to fix to Latin 'c'
+- Cyrillic 'с' in "Produсts" (Line 278) - may want to fix to Latin 'c'
 - Accented characters in French text
 
 ### 4. Image Path References

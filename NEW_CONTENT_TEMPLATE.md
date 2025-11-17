@@ -11,36 +11,36 @@ This will be used to update the website.
 ### Brand Name
 ```
 Old: WE+AR TRBL
-New: Elite.
+New: [FILL IN - Your Brand Name]
 
-Lowercase version: [FILL IN - e.g., "elite."]
+Lowercase version: [FILL IN - e.g., "your brand"]
 ```
 
 ### Tagline / Value Proposition
 ```
 Old: The world's first flexible screen on a garment.
-New: Massages that will blow your mind. And more.
+New: [FILL IN - Your unique value proposition]
 ```
 
 ### Main Slogan
 ```
 Old (3 lines):
-  "We'll blow "
-  "your mind "
-  "And more. "
+  "I am "
+  "what "
+  "i wear"
 
 New (3 lines):
-  "Once in a life"
-  "experiences."
-  "Every fucking day."
+  "[FILL IN - Line 1]"
+  "[FILL IN - Line 2]"
+  "[FILL IN - Line 3]"
 
-Or single line version: Best ever.
+Or single line version: [FILL IN]
 ```
 
 ### Hashtag
 ```
 Old: #wearTRBL
-New: #fckngoodfckn
+New: [FILL IN - #YourBrandHashtag]
 ```
 
 ---
@@ -56,7 +56,7 @@ New: [FILL IN - your@email.com]
 ### Website Domain
 ```
 Old: wear-trbl.com / weartrbl.com
-New: elite.by.fck.inc
+New: [FILL IN - yourdomain.com]
 ```
 
 ### Physical Address
@@ -67,9 +67,9 @@ Old:
   france
 
 New:
-  Discretely located
-  in Lenzburg, AG
-  Switzerland
+  [FILL IN - Street address]
+  [FILL IN - City, Postal code]
+  [FILL IN - Country]
 
 Or: [X] We're online-only (no physical address)
 ```
@@ -94,9 +94,9 @@ Or: [X] Online-only (24/7)
 ### Parent Company
 ```
 Old: Parrot / Parrot Drones SAS
-New: Elite Massages
+New: [FILL IN - Your company name]
 
-Keep Parrot? [ ] Yes  [ X] No
+Keep Parrot? [ ] Yes  [ ] No
 ```
 
 ### Company Legal Name (for policies)
@@ -401,9 +401,9 @@ Old: "Trbl app"
 New: [FILL IN - Your app name]
 ```
 
-#### "Masseuse " → Fix typo?
+#### "Produсts" → Fix typo?
 ```
-Current: "Masseuse " (has Cyrillic 'с')
+Current: "Produсts" (has Cyrillic 'с')
 Fix to: [ ] "Products" (Latin 'c')
 Or rename: [FILL IN]
 ```

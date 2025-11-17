@@ -60,11 +60,11 @@
 
 | Line | Context | Current |
 |------|---------|---------|
-| 221 | Desktop line 1 | "We'll blow " |
-| 222 | Desktop line 2 | "your mind " |
-| 223 | Desktop line 3 | "And more. " |
+| 221 | Desktop line 1 | "I am " |
+| 222 | Desktop line 2 | "what " |
+| 223 | Desktop line 3 | "i wear" |
 | 224 | Mobile line 1 | "I am what" |
-| 225 | Mobile line 2 | "And more. " |
+| 225 | Mobile line 2 | "i wear" |
 | 234 | About closing | "i am what i wear" |
 
 **Replace:** All 6 instances with your slogan
@@ -226,7 +226,7 @@
 | 275 | nav.faq | "Faq" | Keep |
 | 276 | nav.lookbook | "Lookbook" | Keep or rename |
 | 277 | nav.contacts | "Contacts" | Keep |
-| 278 | nav.collection | "Masseuse " | ⚠️ Fix Cyrillic 'с' |
+| 278 | nav.collection | "Produсts" | ⚠️ Fix Cyrillic 'с' |
 | 280 | nav.trblmkrs | "Trbl mkrs" | ✏️ Update or remove |
 | 281 | nav.customerCare | "Customer Care" | Keep |
 | 282 | nav.sitePolicy | "Site Policy" | Keep |
